@@ -8,6 +8,7 @@
     <Version>3.1.0</Version>
     <AspNetCoreHostingModel>OutOfProcess</AspNetCoreHostingModel>
     <AspNetCoreModuleName>AspNetCoreModuleV2</AspNetCoreModuleName>
+    <IncludeSourceRevisionInInformationalVersion>false</IncludeSourceRevisionInInformationalVersion>
   </PropertyGroup>
 
   <ItemGroup>
@@ -31,7 +32,7 @@
     <PackageReference Include="Lykke.AzureQueueIntegration" Version="2.3.0" />
     <PackageReference Include="Lykke.Common.ApiLibrary" Version="3.1.1" />
     <PackageReference Include="Lykke.SlackNotification.AzureQueue" Version="2.0.5" />
-    <PackageReference Include="LykkeBiz.Logs" Version="9.1.1" />
+    <PackageReference Include="LykkeBiz.Logs" Version="10.0.0" />
     <PackageReference Include="Newtonsoft.Json" Version="13.0.3" />
     <PackageReference Include="Newtonsoft.Json.Schema" Version="4.0.1" />
     <PackageReference Include="Swashbuckle.AspNetCore" Version="6.7.0" />

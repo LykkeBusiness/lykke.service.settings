@@ -9,6 +9,8 @@ Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "0. Solution Items", "0. Sol
 		Dockerfile = Dockerfile
 		LICENSE = LICENSE
 		README.md = README.md
+        CHANGELOG.md = CHANGELOG.md
+		.editorconfig = .editorconfig
 	EndProjectSection
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Web", "src\Web\Web.csproj", "{085BB837-9E00-40ED-8B6D-38B675B74147}"
